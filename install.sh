@@ -44,6 +44,7 @@ sudo dnf install https://downloads.sourceforge.net/project/mscorefonts2/rpms/mst
 #flatpak install flathub dev.lizardbyte.app.Sunshine
 
 # Instalar aplicativos em flatpak
+flatpak install flathub com.bitwarden.desktop
 #flatpak install flathub com.discordapp.Discord
 #flatpak install flathub com.spotify.Client
 #flatpak install flathub tech.feliciano.pocket-casts
