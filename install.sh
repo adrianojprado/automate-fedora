@@ -60,6 +60,7 @@ flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor
 flatpak install flathub de.haeckerfelix.Fragments
 flatpak install flathub com.rtosta.zapzap
 flatpak install flathub com.todoist.Todoist
+flatpak install flathub io.github.Bavarder.Bavarder
 #flatpak install flathub com.discordapp.Discord
 #flatpak install flathub io.github.pwr_solaar.solaar
 #flatpak install flathub io.github.brunofin.Cohesion
