@@ -51,7 +51,7 @@ flatpak install flathub com.bitwarden.desktop
 #flatpak install flathub com.obsproject.Studio
 flatpak install flathub io.github.celluloid_player.Celluloid
 #flatpak install flathub org.gnome.Boxes
-flatpak install flathub com.mattjakeman.ExtensionManager
+flatpak install flathub org.gnome.Extensions
 flatpak install flathub com.github.tchx84.Flatseal
 flatpak install flathub org.mozilla.Thunderbird
 flatpak install flathub org.nickvision.tubeconverter
