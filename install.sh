@@ -64,7 +64,15 @@ flatpak install flathub io.github.Bavarder.Bavarder
 #flatpak install flathub com.discordapp.Discord
 #flatpak install flathub io.github.pwr_solaar.solaar
 #flatpak install flathub io.github.brunofin.Cohesion
+flatpak install flathub com.mikrotik.WinBox
+# AppImage install
+flatpak install flathub it.mijorus.gearlever
+
+
 
 # Instalar as fontes que estão na pasta: Fontes
 # Aplicativos para instalar depois manualmente: DaVinci Resolve, Figma for Desktop, Insync
 # O que adicionar como webapp depois: Trello
+
+# Terminal Wave  https://www.waveterm.dev/download
+# Warp Terminal  https://www.warp.dev/
